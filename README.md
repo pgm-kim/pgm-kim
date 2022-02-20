@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**pgm-kim/pgm-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- ![IMG_20220220_130636_989](https://user-images.githubusercontent.com/92147193/154842206-2c1f2426-d6a1-4239-99fa-dcc9ffa7d1c0.jpg)
 # hey there 👋
 • i'm kimberly, kim for the friends. <br>
 • junior developper. <br>
