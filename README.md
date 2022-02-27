@@ -1,4 +1,7 @@
- ![IMG_20220220_130636_989](https://user-images.githubusercontent.com/92147193/154842206-2c1f2426-d6a1-4239-99fa-dcc9ffa7d1c0.jpg)
+![IMG_20220227_214619_346](https://user-images.githubusercontent.com/92147193/155899498-e94741fe-3c9a-4320-bc6a-69ef7b213105.jpg)
+
+" ></a>
+
 # hey there 👋
 • i'm kimberly, kim for the friends. <br>
 • junior developper. <br>
