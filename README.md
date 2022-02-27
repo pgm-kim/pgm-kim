@@ -1,4 +1,4 @@
-<img align="center" alt="intro kim" height="250px" src="https://user-images.githubusercontent.com/92147193/155899498-e94741fe-3c9a-4320-bc6a-69ef7b213105.jpg">
+<img align="center" alt="intro kim" height="300px" src="https://user-images.githubusercontent.com/92147193/155899498-e94741fe-3c9a-4320-bc6a-69ef7b213105.jpg">
 
 ## hey there 👋
 • i'm kimberly, kim for the friends. <br>
