@@ -18,22 +18,6 @@
 <br>
 <br>
 <br>
-## Education
-Artevelde University Gent <br> Graduate Programming <br>2021 - 2023 
-<br>
-<br>
-Burgerschool roeselare
-<br>marketing en ondernemen<br> 2015 - 2021 
-
-## Experience
-logistiek medewerker <br>
-AZ delta campus rumbeke <br>
-zomer 2020/2021
-<br>
-<br>
-administratief medewerker<br>
-Dekimpe NV <br>
-stage + 2 weken
 ## socials
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href="kimkim#2412">        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/kim_sbbe">
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/kimberly-sabbe-538760220/">
