@@ -1,9 +1,9 @@
 <img align="center" alt="intro kim" height="300px" src="https://user-images.githubusercontent.com/92147193/155899498-e94741fe-3c9a-4320-bc6a-69ef7b213105.jpg">
 
 ## hey there 👋
-• i'm kimberly, kim for the friends. <br>
-• junior developper. <br>
-• born in 2003 and living in belgium. <br>
+• 🌱 i'm kimberly, kim for the friends. <br>
+• ⌨️ junior developper. <br>
+• 😶‍🌫️ born in 2003 and living in belgium. <br>
 
 ## Languages
 <a target="_blank" href="https://www.ecma-international.org/publications-and-standards/standards/"><img align="left" alt="JavaScript" height="33px" src="https://f.lyttle.it/DuaNti2sbq.png"></a>
