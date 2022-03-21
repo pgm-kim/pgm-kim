@@ -4,6 +4,8 @@
 • 🌱 i'm kimberly, kim for the friends. <br>
 • ⌨️ junior developper. <br>
 • 😶‍🌫️ born in 2003 and living in belgium. <br>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pgm-kim&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-kim&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
 
 ## Languages
 <a target="_blank" href="https://www.ecma-international.org/publications-and-standards/standards/"><img align="left" alt="JavaScript" height="33px" src="https://f.lyttle.it/DuaNti2sbq.png"></a>
