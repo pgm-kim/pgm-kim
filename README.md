@@ -27,6 +27,6 @@
 ## socials
 <a target="_blank" href="https://www.linkedin.com/in/kimberly-sabbe-538760220/"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target="_blank" href="kimkim#2412"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a target="_blank" href="https://twitter.com/kim_sbbe"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a target="_blank" href="https://twitter.com/kim_sabbe"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a target="_blank" href="https://open.spotify.com/user/sd0bal7sznx0gz5ke3wvvnvdg?si=ab7f51ac38c04bc9"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
