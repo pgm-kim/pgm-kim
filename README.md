@@ -1,8 +1,9 @@
-<img align="center" alt="intro kim" width="100%" src="https://user-images.githubusercontent.com/92147193/169688944-79bc304a-bb34-4b81-ac8a-ffdda8cf5452.jpg">
+# KIMBERLY SABBE <img align="center" alt="intro kim" width="30%" src="https://user-images.githubusercontent.com/92147193/169690003-71046fb8-5504-41dc-a9b9-43b238fa76c0.png">
 
 ## hey there 👋
 
-• 🌱 i'm kimberly, kim for the friends. <br>
+• 🌱 i'm kimberly, kim for the friends. <br>![Uploading IMG_9365.png…]()
+
 • ⌨️ junior developper. <br>
 • 😶‍🌫️ born in 2003 and living in belgium. <br>
 • 👨‍🎓 I'm studying at Artevelde highschool Ghent <br>
