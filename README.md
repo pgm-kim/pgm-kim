@@ -1,4 +1,7 @@
-# KIMBERLY SABBE <img align="center" alt="intro kim" width="30%" src="https://user-images.githubusercontent.com/92147193/169690003-71046fb8-5504-41dc-a9b9-43b238fa76c0.png">
+
+  <div align="center"> 
+  
+  # KIMBERLY SABBE <img align="center" alt="intro kim" width="30%" src="https://user-images.githubusercontent.com/92147193/169690003-71046fb8-5504-41dc-a9b9-43b238fa76c0.png"></div>
 
 ## hey there 👋
 
