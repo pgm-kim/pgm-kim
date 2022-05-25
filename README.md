@@ -5,12 +5,14 @@
 
 ## hey there 👋
 
-• 🌱 i'm kimberly, kim for the friends. <br>![Uploading IMG_9365.png…]()
+• 🌱 i'm kimberly, kim for the friends. <br>
 
 • ⌨️ junior developper. <br>
 • 😶‍🌫️ born in 2003 and living in belgium. <br>
 • 👨‍🎓 I'm studying at Artevelde highschool Ghent <br>
 
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pgm-kim&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
 
 ## Languages
 <a target="_blank" href="https://www.ecma-international.org/publications-and-standards/standards/"><img align="left" alt="JavaScript" height="33px" src="https://f.lyttle.it/DuaNti2sbq.png"></a>
