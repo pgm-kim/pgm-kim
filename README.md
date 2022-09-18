@@ -6,7 +6,6 @@
 ## hey there 👋
 
 • 🌱 i'm kimberly, kim for the friends. <br>
-
 • ⌨️ junior developper. <br>
 • 😶‍🌫️ born in 2003 and living in belgium. <br>
 • 👨‍🎓 I'm studying at Artevelde highschool Ghent <br>
