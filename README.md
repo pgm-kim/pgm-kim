@@ -1,36 +1,24 @@
+<h1 align="center">Hi 👋, I'm Kim</h1>
+<h3 align="center">student Cloud Application Development</h3>
 
-  <div align="center"> 
-  
-  # KIMBERLY SABBE <img align="center" alt="intro kim" width="30%" src="https://user-images.githubusercontent.com/92147193/169690003-71046fb8-5504-41dc-a9b9-43b238fa76c0.png"></div>
+- 🌱 I’m currently learning **javascript, react, php...**
 
-## hey there 👋
+- 📫 How to reach me **kim.sbbe@gmail.com**
 
-• 🌱 i'm kimberly, kim for the friends. <br>
-• ⌨️ junior developper. <br>
-• 😶‍🌫️ born in 2003 and living in belgium. <br>
-• 👨‍🎓 I'm studying at Artevelde highschool Ghent <br>
+- ⚡ Fun fact **I think I'm funny**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kim_sabbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kim_sabbe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kimberly sabbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kimberly sabbe" height="30" width="40" /></a>
+<a href="https://instagram.com/kim_sabbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kim_sabbe" height="30" width="40" /></a>
+</p>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pgm-kim&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## Languages
-<a target="_blank" href="https://www.ecma-international.org/publications-and-standards/standards/"><img align="left" alt="JavaScript" height="33px" src="https://f.lyttle.it/DuaNti2sbq.png"></a>
-<a target="_blank" href="https://html.spec.whatwg.org/"><img align="left" alt="HTML" height="33px" src="https://f.lyttle.it/wZs7ssJ5e2.png"></a>
-<a target="_blank" href="https://www.w3.org/TR/CSS/#css"><img align="left" alt="CSS" height="33px" src="https://f.lyttle.it/HqcyCljrcu.png"></a>
-<br>
-<br>
-<br>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-kim&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgm-kim&show_icons=true&locale=en&layout=compact" alt="pgm-kim" /></p>
 
-## programs
-<a target="_blank" href="https://www.adobe.com/products/xd.html"><img align="left" alt="Adobe XD" height="33px" src="https://f.lyttle.it/VoggFqzCjH.png"></a>
-<a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img align="left" alt="Adobe Photoshop" height="33px" src="https://f.lyttle.it/P4gsADeGqZ.png"></a>
-<br>
-<br>
-<br>
-## socials
-<a target="_blank" href="https://www.linkedin.com/in/kimberly-sabbe-538760220/"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a target="_blank" href="kimkim#2412"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a target="_blank" href="https://twitter.com/kim_sabbe"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a target="_blank" href="https://open.spotify.com/user/sd0bal7sznx0gz5ke3wvvnvdg?si=ab7f51ac38c04bc9"><img align="left" alt="Adobe XD" height="33px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-kim&show_icons=true&locale=en" alt="pgm-kim" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgm-kim&" alt="pgm-kim" /></p>
